@@ -650,7 +650,7 @@ def main():
 	clear()
 	print("")
 	print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
-	print("\033[1;37m     FIRST OF ALL FOLLOW ME  )
+	print("\033[1;37m     FIRST OF ALL FOLLOW ME)
 	print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
 	print("")
 	print(" \033[1;39m━▷\033[1;32m [1] FOLLOOW ME FOR APPROVAL")
