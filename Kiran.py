@@ -596,7 +596,7 @@ for xd in range(10000):
    k=random.randrange(40,150)
    l='JioBrowser/1.4.7 Chrome/69.0.3497.100 Mobile Safari/537.36'
    uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
-   ugen.append(uaku2
+   ugen.append(uaku2)
 os.system("speak -a 500 ASSALAM ALAIKUM")
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m ASSALAM ALAIKUM \033[1;91:\33[1;32')
 os.system("speak -a 500 Whats Your user NAME,")
