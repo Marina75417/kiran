@@ -599,11 +599,11 @@ for xd in range(10000):
    ugen.append(uaku2)
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m ARE YOU MUSALM = \033[1;91:\33[1;32')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m ASSALAM ALAIKUM= \033[1;91:\33[1;32')
-os.system("speak -a 500 ASSALAM ALAIKUM")
-os.system("speak -a 500 Whats Your user NAME,")
+os.system("speak -a 300 ASSALAM ALAIKUM")
+os.system("speak -a 300 Whats Your user NAME,")
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR USER NAME \033[1;91m:\33[1;32m')
-os.system("speak -a 500 WELLCOME TO MARINAKHAN, TOOL")
-os.system("speack -a 500 MARINA NOT A NAME SHE IS BRAND")
+os.system("speak -a 300 WELLCOME TO MARINAKHAN, TOOL")
+os.system("speack -a 300 MARINA NOT A NAME SHE IS BRAND")
 
 def linex():print(f'\r\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 def line():print(f'\r\n\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
@@ -626,26 +626,19 @@ logo ="""\033[1;37mWELCOME TO JAN x JAN COMMAND
 
               \033[1;39mMARINA \033[1;35mKHAN \033[1;36m🩷🪽
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-              
+         
   __  __ _   _          
  |  \/  | \ | |   /\    
  | \  / |  \| |  /  \   
  | |\/| | . ` | / /\ \  
  | |  | | |\  |/ ____ \ 
- |_|  |_|_| \_/_/    \_\
-                        
-\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;39m━▷ \033[0;91mAUTHER    \033[1;39m◈✙◈\033[1;33m JAN x JAN
-\033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MARINA x KIRAN
-\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TRC OWENER KIRAN
-\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mTRC TRICKER
-\033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mBRANDED KAMINI
-\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mFACEBOOK KI SHAHEZADI
-\033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY
-\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;37m8.9
-\033[1;39m━▷ \033[1;36mOWNER EROR NOT FOUNRDER QUEEN
-\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●"""
-
+ |_|  |_|_| \_/_/    \_
+••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
+  \033[1;32mAuther    :  MARINA TRICKER
+  \033[1;33mYouTube :   MARINA TRICKER
+  \033[1;32mFecbook :   MARINA TRICKER
+   \033[1;33m Admin. :  MARINA  TRICKER
+••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 os.system('clear')
 def clear():
