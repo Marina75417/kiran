@@ -634,11 +634,12 @@ logo ="""\033[1;37mWELCOME TO JAN x JAN COMMAND
  | |  | | |\  |/ ____ \ 
  |_|  |_|_| \_/_/    \_
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
+
   \033[1;32mAuther    :  MARINA TRICKER
   \033[1;33mYouTube :   MARINA TRICKER
   \033[1;32mFecbook :   MARINA TRICKER
    \033[1;33m Admin. :  MARINA  TRICKER
-••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
+••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m")
 
 os.system('clear')
 def clear():
