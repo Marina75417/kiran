@@ -598,7 +598,7 @@ for xd in range(10000):
    uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
    ugen.append(uaku2
 os.system("speak -a 500 ASSALAM ALAIKUM")
-NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m ASSALAM ALAIKUM
+NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m ASSALAM ALAIKUM \033[1;91:\33[1;32')
 os.system("speak -a 500 Whats Your user NAME,")
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR USER NAME \033[1;91m:\33[1;32m')
 os.system("speak -a 500 WELLCOME TO MARINAKHAN, TOOL")
